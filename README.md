@@ -5,6 +5,10 @@
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow.svg)](https://pandas.pydata.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+## 🌐 Live Demo
+Try out the interactive web application here: 
+**[Launch the Gradio App on Hugging Face Spaces](https://huggingface.co/spaces/MalikShehram/Social-Ads-Purchase-Predictor)**
+
 ## 📖 Table of Contents
 1. [Project Overview](#project-overview)
 2. [Business Problem](#business-problem)
